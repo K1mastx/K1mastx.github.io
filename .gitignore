@@ -1,0 +1,2 @@
+# 忽略_site里面的文件，因为是jekyll build生成的
+_site/

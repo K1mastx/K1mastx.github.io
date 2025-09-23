@@ -1,2 +1,7 @@
-# K1mastx.github.io
-Life Is A Struggle
+---
+layout: default
+title: About
+---
+# About page
+
+This page tells you a little bit about me.
