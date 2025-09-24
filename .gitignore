@@ -1,2 +1,13 @@
-# 忽略_site里面的文件，因为是jekyll build生成的
-_site/
+
+.DS_Store
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/the-mvm.github.io.iml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.vscode/settings.json
+/.vscode/
+/.idea/
+.liquidrc
