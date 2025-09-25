@@ -1,6 +1,16 @@
 [
   
     {
+      "title"       : "Machine Learning--one",
+      "category"    : "",
+      "tags"        : "machine learning, coding, notes",
+      "url"         : "./ML-1.html",
+      "date"        : "2025-09-25 14:55:32 +0800",
+      "description" : "Single neuron perceptron that classifies elements learning quite quickly.",
+      "content"     : "just a test"
+    } ,
+  
+    {
       "title"       : "Who owns the copyright for an AI generated creative work?",
       "category"    : "opinion",
       "tags"        : "copyright, creativity, neural networks, machine learning, artificial intelligence",

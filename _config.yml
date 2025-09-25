@@ -1,5 +1,5 @@
 # Site settings
-title: The Minimum Viable Model
+title: Life Is A Struggle 
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -28,6 +28,7 @@ author: K1mastx/Yang # add your name
 author-pic: Head_alice.jpg
 about-author: 软件安全、AI 初学者, XDU-->IIE, 研0, 欢迎交流学习 # intruduce myself
 # Contact links
+wechat_qr: /assets/img/wechat_qr.jpg # wechat QR
 email: weiyang_2233@163.com # Add your Email address
 phone: 177 ****** 78 # Add your Phone number
 website: https://k1mastx.github.io/ # Add your website

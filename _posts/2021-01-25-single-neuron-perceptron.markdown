@@ -3,9 +3,9 @@ layout: post
 read_time: true
 show_date: true
 title:  Single Neuron Perceptron
-date:   2021-01-25 13:32:20 -0600
+date: 2021-01-25 13:32:20 -0600
 description: Single neuron perceptron that classifies elements learning quite quickly.
-img: assets/img/posts/20210125/Perceptron.jpg 
+img: posts/20210125/Perceptron.jpg 
 tags: [machine learning, coding, neural networks]
 author: Armando Maynez
 github:  amaynez/Perceptron/
@@ -76,12 +76,12 @@ The output of the perceptron is calculated with the following activation functio
 
 The error for each point is calculated as the expected outcome of the perceptron minus the real outcome therefore there are only 3 possible error values:
 
-|Expected  |  Calculated | Error|
-|:----:|:----:|:----:|
-|1|-1|1|
-|1|1|0|
-|-1|-1|0|
-|-1|1|-1|
+| Expected | Calculated | Error |
+| :------: | :--------: | :---: |
+|    1     |     -1     |   1   |
+|    1     |     1      |   0   |
+|    -1    |     -1     |   0   |
+|    -1    |     1      |  -1   |
 
 With every point that is learned if the error is not 0 the weights are adjusted according to:
 
